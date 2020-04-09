@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-datocms-demo",
-  "description": "Gatsby DatoCMS creative portfolio demo",
+  "name": "the-mccraws",
+  "description": "Searching for the perfect margarita!",
   "version": "1.0.0",
-  "author": "Stefano Verna <s.verna@datocms.com>",
+  "author": "dustinmccraw",
   "dependencies": {
     "dotenv": "^8.1.0",
     "gatsby": "^2.18.8",
